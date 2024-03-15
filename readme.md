@@ -36,7 +36,7 @@ Where <biểu thức điều kiện>
 Ví dụ: Tìm những SV thi môn học có mã 'M01' và đạt điểm trên 7
 
 ```
-Select \*
+Select *
 From KQTHI
 Where MaMH = 'M01' and Diem >7
 ```
@@ -44,7 +44,7 @@ Where MaMH = 'M01' and Diem >7
 <h2>Like và Not like:</h2>
 
 - `%` đại diện một nhóm ký tự bất kỳ
-- `\_` đại diện một ký tự bất kỳ
+- `_` đại diện một ký tự bất kỳ
 
 Ví dụ:
 
