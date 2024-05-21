@@ -1,3 +1,7 @@
+<h1 align="center">Structured Query Language Practice</h1>
+
+This repository aggregates SQL programming assignments as well as notes on fundamental operations within the Microsoft SQL Server environment, covering the coursework for **Database Systems** and **Database Management Systems**.
+
 <h2>Ngôn ngữ SQL</h2>
 
 - `ALter Table` Chỉnh sửa bảng
